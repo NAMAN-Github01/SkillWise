@@ -1092,7 +1092,7 @@ body.dark-mode h1{
 
 #theme-icon {
   font-size: 24px;
-  color: var(--oxford-blue);
+  color: var--(--oxford-blue);
 }
 
 }
